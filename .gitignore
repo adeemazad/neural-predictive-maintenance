@@ -1,0 +1,38 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+venv/
+.venv/
+
+# Data (large files — use DVC or download scripts instead)
+data/raw/
+data/processed/
+
+# Model checkpoints (keep structure, ignore weights)
+models/checkpoints/*.pt
+models/checkpoints/*.npy
+!models/checkpoints/.gitkeep
+
+# Reports
+reports/figures/*.png
+!reports/figures/.gitkeep
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
