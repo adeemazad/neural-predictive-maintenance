@@ -48,11 +48,11 @@ The dashboard lets you:
           Raw vibration signal (12 kHz)
                        │
                        ▼
-┌─────────────────────────────────────────────────────────┐
-│                  DSP Feature Pipeline                   │
-│  FFT spectrum · Envelope (Hilbert) · CWT scalogram      │
-│  14 statistical time-domain features                    │
-└──────────────────────┬──────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│                  DSP Feature Pipeline               │
+│  FFT spectrum · Envelope (Hilbert) · CWT scalogram  │
+│  14 statistical time-domain features                │
+└──────────────────────┬──────────────────────────────┘
                        │
           ┌────────────┴────────────┐
           ▼                         ▼
