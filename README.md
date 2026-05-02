@@ -42,9 +42,6 @@ The dashboard lets you:
 ### CNN Training History
 ![CNN Training History](reports/figures/training_history_cnn.png)
 
-### RUL LSTM Training History
-![RUL LSTM Training History](reports/figures/training_history_rul_lstm.png)
-
 ### RUL Prediction
 ![RUL Prediction](reports/figures/rul_scatter.png)
 
