@@ -68,8 +68,8 @@ The dashboard lets you:
 │           Explainability Layer                  │
 │   SHAP feature importance · Grad-CAM heatmap    │
 └─────────────────────────────────────────────────┘
-         │
-         ▼
+                      │
+                      ▼
 ┌─────────────────────────────────────────────────┐
 │   Streamlit Dashboard · FastAPI endpoint        │
 │   ONNX edge export (Raspberry Pi ready)         │
