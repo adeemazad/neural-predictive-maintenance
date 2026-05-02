@@ -31,6 +31,25 @@ The dashboard lets you:
 - Visualise simulated remaining useful life
 
 ---
+## Dashboard Demo
+
+[Watch the dashboard demo](reports/dashboard-demo.mov)
+
+## Evaluation Figures
+
+## Evaluation Figures
+
+### CNN Training History
+![CNN Training History](reports/figures/training_history_cnn.png)
+
+### RUL LSTM Training History
+![RUL LSTM Training History](reports/figures/training_history_rul_lstm.png)
+
+### RUL Prediction
+![RUL Prediction](reports/figures/rul_scatter.png)
+
+### Envelope Spectra Comparison
+![Envelope Spectra Comparison](reports/figures/envelope_comparison.png)
 
 ## Architecture
 
