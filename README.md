@@ -3,7 +3,7 @@
 > **AI-powered fault detection for rotating machinery using vibration signal analysis**  
 > 1D-CNN fault classifier · LSTM remaining useful life regressor · DSP feature pipeline · Explainability (SHAP + Grad-CAM) · Streamlit dashboard
 
-[![CI](https://github.com/YOUR_USERNAME/neural-predictive-maintenance/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/neural-predictive-maintenance/actions)
+[![CI](https://github.com/adeemazad/neural-predictive-maintenance/actions/workflows/ci.yml/badge.svg)](https://github.com/adeemazad/neural-predictive-maintenance/actions)
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
