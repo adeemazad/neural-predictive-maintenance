@@ -45,14 +45,14 @@ The dashboard lets you:
 ## Architecture
 
 ```
-Raw vibration signal (12 kHz)
-        │
-        ▼
-┌─────────────────────────────────────────────────────────────┐
-│                  DSP Feature Pipeline                       │
-│  FFT spectrum · Envelope (Hilbert) · CWT scalogram          │
-│  14 statistical time-domain features                        │
-└──────────────────────┬──────────────────────────────────────┘
+          Raw vibration signal (12 kHz)
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────────┐
+│                  DSP Feature Pipeline                   │
+│  FFT spectrum · Envelope (Hilbert) · CWT scalogram      │
+│  14 statistical time-domain features                    │
+└──────────────────────┬──────────────────────────────────┘
                        │
           ┌────────────┴────────────┐
           ▼                         ▼
