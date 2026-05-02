@@ -1,4 +1,4 @@
-# 🔧 Neural Predictive Maintenance Engine
+# Neural Predictive Maintenance Engine
 
 > **AI-powered fault detection for rotating machinery using vibration signal analysis**  
 > 1D-CNN fault classifier · LSTM remaining useful life regressor · DSP feature pipeline · Explainability (SHAP + Grad-CAM) · Streamlit dashboard
@@ -192,13 +192,3 @@ Model interpretability is critical in industrial settings. Two techniques are im
 - ONNX export + Raspberry Pi / Jetson Nano edge deployment
 
 ---
-
-## CV summary
-
-> "Built an end-to-end predictive maintenance system using a 1D-CNN (>98% fault classification accuracy) and Bi-LSTM remaining useful life regressor trained on CWRU-style bearing vibration data. Implemented FFT, envelope, and wavelet DSP preprocessing, SHAP and Grad-CAM explainability, and deployed as a Streamlit live dashboard."
-
----
-
-## License
-
-MIT — free to use, adapt, and build on.
