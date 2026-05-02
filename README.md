@@ -35,8 +35,6 @@ The dashboard lets you:
 
 ## Evaluation Figures
 
-## Evaluation Figures
-
 ### CNN Training History
 ![CNN Training History](reports/figures/training_history_cnn.png)
 
