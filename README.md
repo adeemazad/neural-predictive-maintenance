@@ -203,8 +203,9 @@ Model interpretability is critical in industrial settings. Two techniques are im
 
 ---
 
-Author
-Adeem Azad
-BEng Mechatronics, University of Glasgow
+## Author
 
-LinkedIn
+**Adeem Azad**  
+BEng Mechatronics, University of Glasgow  
+
+[LinkedIn](https://www.linkedin.com/in/adeem-azad)
