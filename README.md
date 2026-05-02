@@ -202,3 +202,9 @@ Model interpretability is critical in industrial settings. Two techniques are im
 - ONNX export + Raspberry Pi / Jetson Nano edge deployment
 
 ---
+
+Author
+Adeem Azad
+BEng Mechatronics, University of Glasgow
+
+LinkedIn
