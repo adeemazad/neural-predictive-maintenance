@@ -240,6 +240,6 @@ with right:
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.divider()
 st.caption(
-    "Neural Predictive Maintenance Engine · University of Glasgow Engineering Portfolio · "
+    "Neural Predictive Maintenance Engine · Adeem Azad · "
     "Built with PyTorch · Streamlit · Plotly"
 )
