@@ -10,8 +10,6 @@
 
 ---
 
-## Problem statement
-
 Unplanned bearing failures in rotating machinery (motors, pumps, turbines) cost industry an estimated **$50B/year** globally. Traditional maintenance is either calendar-based (wasteful) or reactive (expensive). This project demonstrates a data-driven approach: continuously analysing vibration signals to detect fault signatures before catastrophic failure occurs.
 
 ---
